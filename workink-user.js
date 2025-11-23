@@ -8,7 +8,7 @@
 // @match        https://work.ink/*
 // @run-at       document-start
 // @grant        unsafeWindow
-// @downloadURL  https://github.com/Fredrin-Cheat/Fredrin-ff/raw/main/workink-user.js
-// @updateURL    https://github.com/Fredrin-Cheat/Fredrin-ff/raw/main/workink-user.js
+// @downloadURL  https://github.com/Fredrin-Cheat/volcano-work.ink-bypass/raw/main/workink-user.js
+// @updateURL    https://github.com/Fredrin-Cheat/volcano-work.ink-bypass/raw/main/workink-user.js
 // @require      https://raw.githubusercontent.com/Fredrin-Cheat/volcano-work.ink-bypass/refs/heads/main/workink-bypass.js
 // ==/UserScript==
